@@ -35,7 +35,7 @@ Loan 5221812702 renewal failed: Item not renewable
 
 ## Installation
 ```bash
-git clone https://github.com/ha1fdan/bibliotek.dk-api
+git clone https://github.com/ha1fdan/bibliotek.dk-api.git
 cd bibliotek.dk-api
 python3 -m venv .venv
 source .venv/bin/activate
