@@ -26,12 +26,12 @@ Loan 5221812702 renewal failed: Item not renewable
 ```
 
 ## Features
-[x] User authentication with CPR number or library user ID and pincode.
-[x] Fetch user information including name, email, rights, and associated library branches.
-[x] List current loans with details such as title and due date.
-[x] List current reservations with details such as title and pickup location.
-[x] Renew loans with feedback on success or failure.
-[x] Search for libraries by name to retrieve agency IDs.
+- [x] User authentication with CPR number or library user ID and pincode.
+- [x] Fetch user information including name, email, rights, and associated library branches.
+- [x] List current loans with details such as title and due date.
+- [x] List current reservations with details such as title and pickup location.
+- [x] Renew loans with feedback on success or failure.
+- [x] Search for libraries by name to retrieve agency IDs.
 
 ## Installation
 ```bash
